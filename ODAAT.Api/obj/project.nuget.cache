@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3sBbrJ1yGSc=",
+  "success": true,
+  "projectFilePath": "/Users/andrew.improve/Documents/ODAAT/ODAAT.Api/ODAAT.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrew.improve/.nuget/packages/microsoft.aspnetcore.openapi/9.0.0/microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "/Users/andrew.improve/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
