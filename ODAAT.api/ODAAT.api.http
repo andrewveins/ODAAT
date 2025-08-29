@@ -1,0 +1,6 @@
+@ODAAT.api_HostAddress = http://localhost:5250
+
+GET {{ODAAT.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
